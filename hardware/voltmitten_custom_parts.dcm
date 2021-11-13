@@ -1,0 +1,18 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GND_A
+D Power symbol creates a global label with name "GND_A" , ground
+K power-flag
+$ENDCMP
+#
+$CMP LTC2914-2
+D Quad UV/OV Positive/Negative Voltage Monitor
+F https://www.analog.com/media/en/technical-documentation/data-sheets/2914fc.pdf
+$ENDCMP
+#
+$CMP VNB35NV04-E
+D OMNIFET II: fully autoprotected Power MOSFET
+F https://www.st.com/content/ccc/resource/technical/document/datasheet/95/6b/79/42/8e/45/4a/e6/DM00062289.pdf/files/DM00062289.pdf/jcr:content/translations/en.DM00062289.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name voltmitten_custom_parts)(type Legacy)(uri ${KIPRJMOD}/voltmitten_custom_parts.lib)(options "")(descr ""))
+  (lib (name VN7007AHTR)(type Legacy)(uri ${KIPRJMOD}/VN7007AHTR.lib)(options "")(descr ""))
+)
