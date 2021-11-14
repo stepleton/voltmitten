@@ -159,7 +159,7 @@ include:
 * **Heat dissipation zone**. Voltmitten's solid-state power switches can
   generate heat when they pass a significant amount of current. The areas of
   bare metal radiate much of this heat. ***Note: each of these areas is also
-  conductors for one of the inputs from the power supply, and so different
+  a conductor for one of the inputs from the power supply, and so different
   voltage channel modules have bare conductors at different potentials. Do not
   allow stray pieces of metal or other conductive materials to short any of
   these areas together!***
